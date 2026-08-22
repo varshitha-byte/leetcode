@@ -31,9 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/varshitha-byte/leetcode/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/varshitha-byte/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/varshitha-byte/leetcode/tree/master/0008-string-to-integer-atoi) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/varshitha-byte/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
