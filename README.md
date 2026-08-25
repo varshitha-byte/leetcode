@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/varshitha-byte/leetcode/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/varshitha-byte/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/varshitha-byte/leetcode/tree/master/0169-majority-element) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/varshitha-byte/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/varshitha-byte/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/varshitha-byte/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/varshitha-byte/leetcode/tree/master/0169-majority-element) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/varshitha-byte/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
