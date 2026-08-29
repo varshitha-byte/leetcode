@@ -49,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/varshitha-byte/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/varshitha-byte/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/varshitha-byte/leetcode/tree/master/0169-majority-element) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/varshitha-byte/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varshitha-byte/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/varshitha-byte/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/varshitha-byte/leetcode/tree/master/0169-majority-element) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/varshitha-byte/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/varshitha-byte/leetcode/tree/master/0022-generate-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/varshitha-byte/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
