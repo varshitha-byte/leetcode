@@ -7,7 +7,7 @@ public:
         ans.push_back(nums[0]);
         while (i < nums.size() - 1 ) {
             // ans.push_back(nums[i]);
-            if (!ans.empty() && nums[i + 1] >= ans.back()) {
+            if ( nums[i + 1] >= ans.back()) {
                 ans.push_back(nums[i + 1]);
             } else {
                 while (!ans.empty()&&nums[i + 1] < ans.back()&&k) {
