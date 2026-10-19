@@ -10,16 +10,18 @@ public:
         }
 
         int k = p.size();
+        int left = 0;
 
-        for (int i = 0; i < s.size(); i++) {
-            window[s[i] - 'a']++;
+        for (int right = 0; right < s.size(); right++) {
+            window[s[right] - 'a']++;
 
-            if (i >= k) {
-                window[s[i - k] - 'a']--;
+            if (right - left + 1 > k) {
+                window[s[left] - 'a']--;
+                left++;
             }
 
-            if (i >= k - 1 && window == freq) {
-                ans.push_back(i - k + 1);
+            if (right - left + 1 == k && window == freq) {
+                ans.push_back(left);
             }
         }
 
